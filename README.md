@@ -1,3 +1,8 @@
+<!-- cargo-sync-readme start -->
+
+
+<!-- cargo-sync-readme end -->
+
 # For developers
 
 After cloning this repository, please run `cargo run --bin install-pre-commit-hook` in the root folder.
